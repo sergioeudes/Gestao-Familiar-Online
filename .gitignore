@@ -1,0 +1,12 @@
+# Segredos: nunca suba a senha real para o GitHub
+.streamlit/secrets.toml
+
+# Banco de dados: dados financeiros reais da família não devem ir para um repositório
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
