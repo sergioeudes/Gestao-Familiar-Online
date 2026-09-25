@@ -1,0 +1,9 @@
+# Copie este arquivo para .streamlit/config.toml (na mesma pasta do appfin.py) e reinicie o app.
+# Paleta inspirada na referência "Neuralize": fundo roxo-marinho escuro, acento violeta.
+[theme]
+base = "dark"
+primaryColor = "#a855f7"
+backgroundColor = "#171225"
+secondaryBackgroundColor = "#231b38"
+textColor = "#e9e6f5"
+font = "sans serif"
